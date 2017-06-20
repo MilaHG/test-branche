@@ -1,5 +1,6 @@
 # test-branche
 
+<body></body>
 et on teste les conflits
 
 branche développement
